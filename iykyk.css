@@ -1,0 +1,41 @@
+body{
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.header{
+    padding-top: 50px;
+}
+.header h1{
+    text-align: center;
+}
+
+.header p{
+    text-align: center;
+}
+
+.activities{
+    text-align: center;
+}
+
+.activities h2{
+    padding-bottom: 20px;
+}
+
+.activitiesCard{
+    padding-left: 250px;
+}
+
+.activitiesCard h5{
+    padding-top: 45px;
+    font-size: 60px;
+}
+
+.yesorno h1{
+    text-align: center;
+    font-size: 30px;
+}
+.yesorno button{
+    font-size: 20px;
+}
